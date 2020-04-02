@@ -1,8 +1,22 @@
+                                                               IMAGE-PUZZLE
 
-MILESTONE-3
+
 
 1)SADHANA.
 
 2)PRASHANTH REDDY.
 
 3)NIHAL.
+
+Rules
+
+The rules of the game are simple. You just need to drag and drop the broken image pieces to swap it. You need to swap them in a way that it forms the correct image. The number of steps taken to drag and drop the image parts will be counted. So, you may wish to think and try to do it in minimum possible steps. The correct image is provided at the right hand side for your reference.
+
+The screen for the game looks like this
+
+
+
+
+
+
+
