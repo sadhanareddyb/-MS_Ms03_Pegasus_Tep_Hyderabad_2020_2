@@ -14,6 +14,8 @@ The rules of the game are simple. You just need to drag and drop the broken imag
 
 The screen for the game looks like this
 
+[![Screenshot-from-2020-04-02-16-22-38.png](https://i.postimg.cc/Hk909NWd/Screenshot-from-2020-04-02-16-22-38.png)](https://postimg.cc/bZd2z32B)
+
 
 
 
